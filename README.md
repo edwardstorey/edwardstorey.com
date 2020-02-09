@@ -1,3 +1,0 @@
-# edwardstorey.com
-
-Hello World
